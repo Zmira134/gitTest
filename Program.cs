@@ -11,6 +11,7 @@ namespace gitTest
 		static void Main(string[] args)
 		{
 			Console.WriteLine("First time on git");
+			Console.WriteLine("change");
 		}
 	}
 }
