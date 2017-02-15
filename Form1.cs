@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+
 namespace gitTest
 {
 	public partial class Form1 : Form
@@ -15,6 +16,8 @@ namespace gitTest
 		public Form1()
 		{
 			InitializeComponent();
+			Console.WriteLine("In form 1");
+			
 		}
 	}
 }
